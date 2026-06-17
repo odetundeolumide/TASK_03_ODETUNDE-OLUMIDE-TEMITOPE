@@ -113,7 +113,7 @@ The headline finding is a stark 93/7 split: the overwhelming majority of custome
 ```
 customer-segmentation-project/
 ├── Project3_Customer_Segmentation.ipynb   # Main notebook (this project)
-├── online_retail_II.xlsx                  # Dataset (download separately from UCI)
+├── online_retail_II.xlsx                  # Dataset (download separately from UCI) BUT NOT UPLOADED DUE TO SIZE
 ├── customer_segments_output.csv           # Exported output: customer-level clusters + personas
 ├── figures/                                # All charts saved here as PNG
 │   ├── eda_raw_distributions.png
